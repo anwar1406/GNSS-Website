@@ -65,11 +65,6 @@ elif topic == "FAAP":
 elif topic == "BUHJ":
     st.header("Bundelkhand University, Jhansi, Uttar Pradesh")
     st.image("I6.png")
-    
-elif topic == "MCPG":
-    st.header("Manas College, Pitthoragarh, Uttarakhand")
-    st.image("I7.png")
-    
 elif topic == "NITW":
     st.header("National Institute of Technology, Warangal, Telangana")
     st.image("I8.png")
