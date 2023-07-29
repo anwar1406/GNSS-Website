@@ -34,7 +34,7 @@ st.markdown(custom_css, unsafe_allow_html=True)
 
 # Sidebar
 st.sidebar.title("Topics")
-topic = st.sidebar.radio("", ("Home", "AGRI", "HA11", "WLEO", "FAAP", "BUHJ", "MCPG", "NITW", "IHET", "Contact Us" ))
+topic = st.sidebar.radio("", ("Home", "AGRI", "HA11", "WLEO", "FAAP", "BUHJ", "NITW", "IHET", "Contact Us" ))
 
 # Main content
 
